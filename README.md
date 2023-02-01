@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there! 👋 
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My name is Jason, I am a real estate agent transitioning into the world of Cloud Engineering. (A non tech guy interested in Tech) I have started my journey January 2023 to become a DevOps Engineer with Level Up In Tech. I am currently learning the following skills: AWS, Linux, Phyton, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. I just finished learning about Linux and passsed the LPI Linux Essentials certification. The next certifiation I am aiming for is AWS - Developer Associate. Thanks for visting! Let's Collorate and Git it done! 
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Broadus%20Palmer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jason%20Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levelupwithbroadus/)](https://www.linkedin.com/in/levelupwithbroadus/)
 [![Medium Badge](https://img.shields.io/badge/Broadus%20Palmer-12100E?style=flat-square&logo=medium&logoColor=white&link=https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)](https://www.linkedin.com/newsletters/level-up-in-tech-6746961814677987328/)
 [![Gmail Badge](https://img.shields.io/badge/-Broadus@Levelupintech.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Broadus@Levelupintech.com)](mailto:Broadus@Levelupintech.com)
 
