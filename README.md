@@ -1,4 +1,4 @@
-### Hi there, developer world ! 👋 
+### Hi there, DevOps world ! 👋 
 
 My name is Jason, I am a real estate agent transitioning into the world of Cloud Engineering. (A non tech guy interested in Tech) lol.  I have started my journey January 2023 to become a DevOps Engineer with Level Up In Tech. I am currently learning the following skills: AWS, Linux, Phyton, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. I just finished learning about Linux and passsed the LPI Linux Essentials certification. The next certifiation I am aiming for is AWS - Developer Associate. Thanks for visting! Let's code, collorate and Git it done! 
 
