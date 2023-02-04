@@ -1,6 +1,6 @@
 ### Hi DevOps world ! 👋 
 
-My name is Jason, I am a real estate agent transitioning into the world of Cloud Engineering. (A non tech guy interested in Tech) lol.  I have started my journey January 2023 to become a DevOps Engineer with Level Up In Tech. I am currently learning the following skills: AWS, Linux, Phyton, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. The first 4 weeks in Tech, I learned about Linux and passsed the LPI Linux Essentials certification. The next certifiation I am aiming for is AWS - Developer Associate. Thanks for visting! Let's code, collorate and Git it done! 
+My name is Jason, I am a real estate agent transitioning into the world of Cloud Engineering. (A non tech guy interested in Tech) lol.  I have started my journey January 2023 to become a DevOps Engineer with Level Up In Tech. I am currently learning the following skills: AWS, Linux, Phyton, Python, Infrastructure as Code, Orchestration, Containerization, Terraform, CI/CD and Source Control. The first 4 weeks in Tech, I learned about Linux and passsed the LPI Linux Essentials certification. ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) The next certifiation I am aiming for is AWS - Developer Associate. ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) Thanks for visting! Let's code, collorate and Git it done! 
 
 Find out more about me & feel free to connect with me here:  
 
